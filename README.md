@@ -54,7 +54,9 @@
 - 영화, 공연, 뉴스 등 타 문화 콘텐츠 영역으로 확장 가능
 - 시계열 기반 트렌드 예측 및 사회 정서 흐름 지표화
 
-🛠️ 사용 기술
+
+$$사용 기술$$
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
