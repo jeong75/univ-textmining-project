@@ -1,10 +1,11 @@
 ## 베스트셀러 분석을 통한 독서 트렌드 탐색 및 도서 추천 시스템
-|2025-2학기 텍스트마이닝 강의에서 팀 프로젝트로 진행
+| 2025-2학기 텍스트마이닝 강의에서 팀 프로젝트로 진행
 
 ### 프로젝트 개요
 팬데믹을 기점으로 사회 전반의 독서 관심도가 증가하였습니다.
 본 프로젝트는 "우리는 왜 다시 책을 펼치게 되었나?" 라는 질문에서 출발하여,
 베스트셀러 데이터와 독자 리뷰 텍스트를 분석해 근 5년간의 독서 트렌드를 탐색합니다.
+
 #### 연구 목적
 1. 2020~2024년 베스트셀러를 분석하여 근 5년간의 독서 트렌드 흐름 파악
 2. 사회적 이슈와 도서 트렌드 간의 연관성 분석
@@ -59,4 +60,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
+![seaborn](https://img.shields.io/badge/seaborn-4EACD1?style=flat-square)
 
+
+- **크롤링**: `Selenium`
+- **NLP**: `KoNLPy` (한국어 형태소 분석), 불용어 처리, 토큰화
+- **분석**: 감성 분석, 토픽 모델링 (LDA 등)
+- **시각화**: `matplotlib`, `seaborn`, `wordcloud`
