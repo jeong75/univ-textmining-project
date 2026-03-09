@@ -55,4 +55,6 @@
 - 시계열 기반 트렌드 예측 및 사회 정서 흐름 지표화
 
 🛠️ 사용 기술
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
